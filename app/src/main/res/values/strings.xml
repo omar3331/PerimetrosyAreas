@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Perimetros y Areas</string>
+    <string name="titulo">Figuras Geométricas</string>
+    <string name="cuadro">Cuadrado</string>
+    <string name="circulo">Circulo</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="cubo">Cubo</string>
+    <string name="radio">Radio:</string>
+    <string name="base">Base:</string>
+    <string name="altura">Altura:</string>
+    <string name="area">El Area es:</string>
+    <string name="trian">El Area del Triangulo</string>
+    <string name="cub">El Volumen del Cubo es:</string>
+    <string name="inic">Escoja una Figura: </string>
+    <string name="lado">Lado:</string>
+    <string name="calcular">Calcular</string>
+    <string name="ingreso">Ingrese el Valor Correspondiente:</string>
+    <string name="resul">RESULTADO</string>
+    <string name="perimetro">El perímetro es:</string>
+</resources>
